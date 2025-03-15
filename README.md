@@ -9,7 +9,7 @@ cd jhtools
 bash run.sh
 ```
 
-password: pass["https://sfile.mobi/4qKiAabV1Y3"]
+password: pass: ["https://sfile.mobi/4qKiAabV1Y3","https://sfile.mobi/4qKiAabV1Y3"]
 
 HARAP PERBARUI ALAT INI, KARENA TELAH DIPERBARUI 
 PLEASE UPDATE THIS TOOL, AS IT HAS BEEN UPDATED 
